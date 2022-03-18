@@ -8,6 +8,8 @@ The high demand for renewable energy around the world is currently propelling th
     <img src="./misc/TTB_Device_Pic.png" width="600" height="500" >
 </p>
 
+[![IMAGE ALT TEXT](https://youtu.be/ktNyTu8MgPs.jpg)](https://youtu.be/ktNyTu8MgPs "Solar Tracking Power Device")
+
 ## Methodology 
 
 ### Software 
