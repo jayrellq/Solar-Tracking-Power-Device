@@ -4,11 +4,11 @@ This repository is a compilation of the software used for our senior design proj
 
 The high demand for renewable energy around the world is currently propelling the global Solar Tracker Market. What the Solar Tracking Power Device aims to accomplish is maximizing the solar energy input using machine learning, motors, and photovoltaic resistors to accurately align the solar panel of the device towards the sun regardless of the season.
 
+[Video Demonstration] (https://youtu.be/ktNyTu8MgPs)
+
 <p align="center">
     <img src="./misc/TTB_Device_Pic.png" width="600" height="500" >
 </p>
-
-[![IMAGE ALT TEXT](https://youtu.be/ktNyTu8MgPs/0.jpg)](https://youtu.be/ktNyTu8MgPs "Solar Tracking Power Device")
 
 ## Methodology 
 
