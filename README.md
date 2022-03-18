@@ -35,7 +35,7 @@ The high demand for renewable energy around the world is currently propelling th
 ## Authors:
 
 ### Software Team
-* **Jayrell Quiambao** -  jlquiamb@uci.edu 
+* **Jayrell Quiambao** -  [LinkedIn](https://www.linkedin.com/in/jayrell-quiambao/) - jlquiamb@uci.edu 
 * **Roy Matthew Ramos** - [LinkedIn](https://www.linkedin.com/in/roymatthewr/) - roymr@uci.edu
 
 ### Hardware Team
